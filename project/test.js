@@ -156,7 +156,7 @@ let data = [{
 
 data.push({
     "role": "user",
-    "content": "차가 없는 경우 제주 1박 2일 일정을 알려줘"
+    "content": "차가 없는 경우 제주 1박 2일일정을 알려줘"
 })
 
 fetch(url, {
